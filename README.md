@@ -5,24 +5,24 @@
 ---
 
 ### 🚀 About Me
-- 🎓 3rd-year Software Engineering student with experience in research, web development, and data-driven projects
+- 🎓 **3rd-year Software Engineering student with experience in research, web development, and data-driven projects**
 
-- 🔭 Currently working on:
+- 🔭 **Currently working on:**
     - My Portfolio Webpage 🚧
     - ESS Website
     - CTC Website
     
-- 🎯 Hobbies:
+- 🎯 **Hobbies:**
   - Reading 📖
   - Working out 💪
   - Video Games 🎮
     
-- 👅 Languages:
+- 👅 **Languages:**
   - English: Fluent
   - Urdu: Fluent
   - French: Advanced
     
-- 🥋 Fun fact: I competed at the 2024 TBA-SA Muay Thai Tournament in Iowa (bronze 🥉)
+- 🥋 **Fun fact:** I competed at the 2024 TBA-SA Muay Thai Tournament in Iowa
   
 ---
 
@@ -62,33 +62,21 @@
 
 ---
 
-### 📈 GitHub Stats
-![Abia's GitHub stats](https://github-readme-stats.vercel.app/api?username=abia-jahangir&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/abia-jahangir)  
 - Email: abiajahangir1@email.com
 
 
 <!--
-**abia-jahangir/abia-jahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+![Abia's GitHub stats](https://github-readme-stats.vercel.app/api?username=abia-jahangir&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-### 🌱 Currently Learning
-- Advanced backend architecture & cloud development
-- Applying AI/ML in practical systems
+
+
+
 
 ---
 

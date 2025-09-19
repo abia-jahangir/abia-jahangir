@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!👋;It's+Abia😝)](https://git.io/typing-svg)
+
 💻 **Software Engineering Student** | 🌐 **Backend Development Enthusiast** | 🔬 **Undergraduate Researcher**
 
 ---

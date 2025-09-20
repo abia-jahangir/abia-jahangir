@@ -5,22 +5,22 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **3rd-year Software Engineering student with experience in research, web development, and data-driven projects**
+🎓 **3rd-year Software Engineering student with experience in research, web development, and data-driven projects**
 
-- 🔭 **Currently working on:**
-    - My Portfolio Webpage 🚧
-    - ESS Website
-    - CTC Website
+🔭 **Currently working on:**
+- My Portfolio Webpage 🚧
+- ESS Website
+- CTC Website
     
-- 🎯 **Hobbies:**
+🎯 **Hobbies:**
   - Reading 📖
   - Working out 💪
   - Video Games 🎮
     
-- 📌 **Fun facts:**
-    1. I competed at the 2024 TBA-SA Muay Thai Tournament in Iowa 🥋
-    2. I know 3 languages (English, French, Urdu) 👅
-    3. I love Frank Ocean 🎶
+📌 **Fun facts about me:**
+1. I competed at the 2024 TBA-SA Muay Thai Tournament in Iowa 🥋
+2. I know 3 languages (English, French, Urdu) 👅
+3. I love Frank Ocean 🎶
   
 ---
 

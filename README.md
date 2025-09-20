@@ -17,12 +17,10 @@
   - Working out 💪
   - Video Games 🎮
     
-- 👅 **Languages:**
-  - English: Fluent
-  - Urdu: Fluent
-  - French: Advanced
-    
-- 🥋 **Fun fact:** I competed at the 2024 TBA-SA Muay Thai Tournament in Iowa
+- 📌 **Fun facts:**
+    1. I competed at the 2024 TBA-SA Muay Thai Tournament in Iowa 🥋
+    2. I know 3 languages (English, French, Urdu) 👅
+    3. I love Frank Ocean 🎶
   
 ---
 
@@ -31,6 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-FF4088?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)

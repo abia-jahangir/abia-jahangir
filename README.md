@@ -9,7 +9,6 @@
 
 🔭 **Currently working on:**
 - My Portfolio Webpage 🚧
-- ESS Website
 - CTC Website
     
 🎯 **Hobbies:**
